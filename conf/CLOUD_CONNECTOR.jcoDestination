@@ -1,0 +1,10 @@
+jco.client.type=3
+jco.client.trace=0
+jco.client.lang=de
+jco.destination.peak_limit=4
+jco.client.client=100
+jco.client.passwd=u.3g*:]%wBZ;U8pgpr|t%]]E[e_xVBCDpTWZz@*}]6(9)eHczHsTp|#:$45r[vqS5w$c_UQB
+jco.client.user=TASK_CONNECT
+jco.client.sysnr=00
+jco.destination.pool_capacity=4
+jco.client.ashost=hellstroem.status-c.intern

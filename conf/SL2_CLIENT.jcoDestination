@@ -1,0 +1,10 @@
+jco.client.type=3
+jco.client.trace=0
+jco.client.lang=DE
+jco.destination.peak_limit=3
+jco.client.client=030
+jco.client.passwd=tO$U/5Rl_!L#F[]ccdPa5rL|;z+TC0p+dRrxR_Ak.53RbKh1
+jco.client.user=piotter
+jco.client.sysnr=00
+jco.destination.pool_capacity=3
+jco.client.ashost=sl2sap.status-c.intern

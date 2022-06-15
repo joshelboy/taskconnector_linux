@@ -1,0 +1,4 @@
+jco.server.connection_count=1
+jco.server.gwserv=sapgw00
+jco.server.progid=TASK_CONNECTOR
+jco.server.gwhost=sl2sap.status-c.intern
